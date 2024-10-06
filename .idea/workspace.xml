@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="307f02d1-b058-4cae-92cd-fe641d3192e6" name="Changes" comment="hi">
-      <change afterPath="$PROJECT_DIR$/src/Java01/HelloWorld.java" afterDir="false" />
+    <list default="true" id="307f02d1-b058-4cae-92cd-fe641d3192e6" name="Changes" comment="2nd file">
+      <change afterPath="$PROJECT_DIR$/src/Java01/NameFormatting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java01/NumberFormatting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java01/NumberFormatting2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,21 +26,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Ramaa0325"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ramaa0325&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Ramaa0325/JavaSamples.git",
-    "accountId": "b18c2887-28ae-4f3c-92f7-55b1048ecf44"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ramaa0325/JavaSamples.git&quot;,
+    &quot;accountId&quot;: &quot;b18c2887-28ae-4f3c-92f7-55b1048ecf44&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2mhIonVRxsYRMIlgq9WYXepExvZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -47,6 +51,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.HelloWorld.executor": "Run",
+    "Application.NumberFormatting.executor": "Run",
+    "Application.NumberFormatting2.executor": "Run",
     "Application.Welcome.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -70,7 +77,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727523397891</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2nd file">
+      <option name="closed" value="true" />
+      <created>1727523685609</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727523685609</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hi" />
-    <option name="LAST_COMMIT_MESSAGE" value="hi" />
+    <MESSAGE value="2nd file" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd file" />
   </component>
 </project>
